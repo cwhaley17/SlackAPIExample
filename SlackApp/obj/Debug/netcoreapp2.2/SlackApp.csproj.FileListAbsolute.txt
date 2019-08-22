@@ -1,0 +1,11 @@
+C:\Users\cwhaley\source\repos\SlackApp\SlackApp\bin\Debug\netcoreapp2.2\SlackApp.deps.json
+C:\Users\cwhaley\source\repos\SlackApp\SlackApp\bin\Debug\netcoreapp2.2\SlackApp.runtimeconfig.json
+C:\Users\cwhaley\source\repos\SlackApp\SlackApp\bin\Debug\netcoreapp2.2\SlackApp.runtimeconfig.dev.json
+C:\Users\cwhaley\source\repos\SlackApp\SlackApp\bin\Debug\netcoreapp2.2\SlackApp.dll
+C:\Users\cwhaley\source\repos\SlackApp\SlackApp\bin\Debug\netcoreapp2.2\SlackApp.pdb
+C:\Users\cwhaley\source\repos\SlackApp\SlackApp\obj\Debug\netcoreapp2.2\SlackApp.csprojAssemblyReference.cache
+C:\Users\cwhaley\source\repos\SlackApp\SlackApp\obj\Debug\netcoreapp2.2\SlackApp.csproj.CoreCompileInputs.cache
+C:\Users\cwhaley\source\repos\SlackApp\SlackApp\obj\Debug\netcoreapp2.2\SlackApp.AssemblyInfoInputs.cache
+C:\Users\cwhaley\source\repos\SlackApp\SlackApp\obj\Debug\netcoreapp2.2\SlackApp.AssemblyInfo.cs
+C:\Users\cwhaley\source\repos\SlackApp\SlackApp\obj\Debug\netcoreapp2.2\SlackApp.dll
+C:\Users\cwhaley\source\repos\SlackApp\SlackApp\obj\Debug\netcoreapp2.2\SlackApp.pdb
