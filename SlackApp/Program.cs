@@ -68,6 +68,10 @@ namespace SlackExample
 
         static void Main(string[] args)
         {
+
+            SlackClient slack = new SlackClient("https://slack.com/oauth/authorize");
+            slack.PostMessage("", "", "");
+
             var msg = new SlackMessage
             {
                 channel = "testroom",
